@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 	<ThingDef ParentName="DrugPillBase">
-		<defName>Rapid Aging Pill</defName>
+		<defName>RapidAgingPill</defName>
 		<label>rapid aging pill</label>
 		<description>A pill which ages the subject by one year.  Very disconcerting to experience.</description>
 		<graphicData>
@@ -23,7 +23,7 @@
 			<drugCategory>Medical</drugCategory>
 			<ingestSound>MechSerumUsed</ingestSound>
 			<outcomeDoers>
-				<li Class=""></li>
+				<li Class="RapidAgingPills.IngestionOutcomeDoer_RapidAging"></li>
 			</outcomeDoers>
 		</ingestible>
 		<recipeMaker>
@@ -35,7 +35,7 @@
 				<Medicine>8</Medicine>
 				<Intellectual>8</Intellectual>
 			</skillRequirements>
-		<recipeMaker>
+		</recipeMaker>
 		<costList>
 			<Neutroamine>10</Neutroamine>
 			<MedicineHerbal>2</MedicineHerbal>
