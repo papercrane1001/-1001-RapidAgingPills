@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>[1001]Rapid Aging Pills (continued)</name>
+	<author>papercrane1001</author>
+	<packageId>papercrane1001.RapidAgingPills</packageId>
+	<supportedVersions>
+		<li>1.3</li>
+	</supportedVersions>
+	<description>This mod adds pills that, when fed to a pawn, ages them by 1 year.  
+	
+	I used to use a very similar mod, but it appears that the creator deleted it.  
+	
+	Like my mod?  Donate at:
+	https://ko-fi.com/papercrane1001
+	
+	I use the MIT license: https://opensource.org/licenses/MIT
+	which mostly says that if you use my code, please give me credit.  
+	
+	GitHub at: https://github.com/papercrane1001/-1001-RapidAgingPills
+	
+	\n\nCredit to prism's MortarManiac and Noodles' More Psycasts for some extremely useful code.  
+	\n\nVersion 1.0.0
+	\nFor version 1.3.</description>
+</ModMetaData>
