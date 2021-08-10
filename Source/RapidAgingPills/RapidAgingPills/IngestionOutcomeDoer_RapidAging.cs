@@ -20,11 +20,9 @@ namespace RapidAgingPills
     {
         protected override void DoIngestionOutcomeSpecial(Pawn pawn, Thing ingested)
         {
-            //throw new NotImplementedException();
             if(pawn == null) { return; }
             //pawn.ageTracker.DebugForceBirthdayBiological();
             pawn.ageTracker.DebugMakeOlder(60 * 60000);
-            //pawn.ageTracker.
         }
     }
 }
