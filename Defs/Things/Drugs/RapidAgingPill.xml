@@ -27,7 +27,7 @@
 			</outcomeDoers>
 		</ingestible>
 		<recipeMaker>
-			<researchPrerequisite>AgingPill</researchPrerequisite>
+			<researchPrerequisite>ResearchProjects_AgingPill</researchPrerequisite>
 			<recipeUsers>
 				<li>DrugLab</li>
 			</recipeUsers>
@@ -48,5 +48,6 @@
 		<tradeTags>
 			<li>ExoticMisc</li>
 		</tradeTags>
+		<thingSetMakerTags><li>RewardStandardHighFreq</li></thingSetMakerTags>
 	</ThingDef>
 </Defs>

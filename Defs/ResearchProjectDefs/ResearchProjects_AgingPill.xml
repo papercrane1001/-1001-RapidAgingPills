@@ -2,7 +2,7 @@
 <Defs>
 
   <ResearchProjectDef>
-    <defName>RapidAging</defName>
+    <defName>ResearchProjects_AgingPill</defName>
     <label>Rapid Aging Pill Production</label>
     <description>A drug to age the subject.</description>
     <baseCost>2000</baseCost>
