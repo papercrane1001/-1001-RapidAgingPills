@@ -23,6 +23,7 @@ namespace RapidAgingPills
             if(pawn == null) { return; }
             //pawn.ageTracker.DebugForceBirthdayBiological();
             pawn.ageTracker.DebugMakeOlder(60 * 60000);
+            pawn.ageTracker.DebugForceBirthdayBiological();
         }
     }
 }
