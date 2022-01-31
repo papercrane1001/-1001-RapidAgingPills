@@ -2,6 +2,7 @@
 <Configuration>
   <Excluded>
     <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\.git</exclude>
+    <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\About\Preview.png~</exclude>
     <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\Source</exclude>
     <exclude>C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\Textures\Source</exclude>
   </Excluded>
