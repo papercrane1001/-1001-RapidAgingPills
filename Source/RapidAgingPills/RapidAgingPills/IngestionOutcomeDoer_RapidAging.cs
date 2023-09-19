@@ -39,6 +39,8 @@ namespace RapidAgingPills
             if(pawn == null) { return; }
             //pawn.ageTracker.DebugMakeOlder(60 * 60000);
             //pawn.ageTracker.AgeBiologicalTicks
+            //pawn.ageTracker.DebugSetGrowth
+            pawn.ageTracker.DebugSetGrowth(60 * 60000);
             pawn.ageTracker.DebugForceBirthdayBiological();
         }
     }
