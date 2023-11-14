@@ -41,10 +41,20 @@ namespace RapidAgingPills
             //pawn.ageTracker.AgeBiologicalTicks
             //pawn.ageTracker.DebugSetGrowth
             //pawn.ageTracker.DebugSetGrowth(60 * 60000);
-            Log.Message("AgeBiologicalTicks: " + pawn.ageTracker.AgeBiologicalTicks.ToString());
+            //Log.Message("AgeBiologicalTicks: " + pawn.ageTracker.AgeBiologicalTicks.ToString());
             pawn.ageTracker.DebugForceBirthdayBiological();
             //pawn.ageTracker.DebugSetGrowth
-            Log.Message("AgeBiologicalTicks: " + pawn.ageTracker.AgeBiologicalTicks.ToString());
+            //Log.Message("AgeBiologicalTicks: " + pawn.ageTracker.AgeBiologicalTicks.ToString());
+        }
+    }
+
+    public class IngestionOutcomeDoer_SetAgeAdult : IngestionOutcomeDoer
+    {
+        protected override void DoIngestionOutcomeSpecial(Pawn pawn, Thing ingested)
+        {
+            //throw new NotImplementedException();
+            if (pawn == null) { return; }
+            pawn.ageTracker.DebugSetAge(pawn.ageTracker.AdultMinAgeTicks);
         }
     }
 }
