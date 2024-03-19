@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\Assemblies\RapidAgingPills.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RapidAgingPills\Assemblies\RapidAgingPills.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RapidAgingPills\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RapidAgingPills\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\-1001-RapidAgingPills\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\1.5\Assemblies\RapidAgingPills.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\1.5\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\1.5\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\[1001]RapidAgingPills\1.5\Source\RapidAgingPills\RapidAgingPills\obj\Debug\RapidAgingPills.dll
