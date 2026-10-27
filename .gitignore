@@ -3,3 +3,4 @@
 *.lock
 *.suo
 *.cache
+/1.4/Source/RapidAgingPills/RapidAgingPills/obj
