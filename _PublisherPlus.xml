@@ -2,12 +2,14 @@
 <Configuration>
   <Excluded>
     <exclude>.git</exclude>
+    <exclude>.vs</exclude>
     <exclude>1.4\Source</exclude>
     <exclude>1.4\Textures\Source</exclude>
     <exclude>1.5\Source</exclude>
     <exclude>1.5\Textures\Source</exclude>
     <exclude>1.6\Source</exclude>
     <exclude>1.6\Textures\Source</exclude>
+    <exclude>1.7\Source</exclude>
     <exclude>About\Preview.png~</exclude>
   </Excluded>
 </Configuration>
